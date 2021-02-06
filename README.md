@@ -3,9 +3,9 @@
 
 Smart Mirror team:
 
-Lama Al-Rasheed
-Fatmah AL-Asiri
-Aljoharah Altamran
-Yasmeen Al-Asker 
-Maram Alghamdi
-Layan Aldhuwayhi
+Lama Al-Rasheed , 
+Fatmah AL-Asiri , 
+Aljoharah Altamran , 
+Yasmeen Al-Asker , 
+Maram Alghamdi , 
+Layan Aldhuwayhi.
